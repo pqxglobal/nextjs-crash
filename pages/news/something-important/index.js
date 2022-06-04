@@ -1,5 +1,5 @@
-function ImportantPage() {
-    return <h1>The Important Page</h1>
+function DetailPage() {
+    return <h1>The Detail Page</h1>
 }
 
-export default ImportantPage;Important
+export default DetailPage;
